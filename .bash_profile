@@ -1,0 +1,1 @@
+alias git='LANG=en_US git'
