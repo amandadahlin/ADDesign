@@ -1,0 +1,26 @@
+.payment-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.payment-option {
+    border: 1px solid gray;
+    padding: 100px;
+    display: flex;
+    align-content: center;
+    align-items: center;
+    box-shadow: 5px 10px 18px #888888;
+    transition: all .2s ease-in-out;
+}
+
+.payment-option:hover {
+    transform: scale(1.05);
+}
+
+.payment-option:first-of-type {
+    margin-right: 10px;
+}
+
+.payment-option:last-of-type {
+    margin-left: 10px;
+}
