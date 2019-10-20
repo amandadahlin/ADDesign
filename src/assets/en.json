@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "paintings": "paintings",
+    "posters": "posters",
+    "inspiration": "inspiration",
+    "contact": "contact",
+    "addToCart": "add to cart",
+    "price": "price",
+    "moreInfo": "more information",
+    "cart": "cart",
+    "unique": "since every painting is unique and only in one copy, the offering varies",
+    "description": "description",
+    "measurement": "measurement",
+    "width": "width",
+    "height": "height",
+    "removeFromCart": "remove from cart"
+  }
+}

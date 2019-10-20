@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "paintings": "tavlor",
+    "posters": "posters",
+    "inspiration": "inspiration",
+    "contact": "kontakt",
+    "addToCart": "lägg till i varukorgen",
+    "price": "pris",
+    "moreInfo": "mer information",
+    "cart": "varukorg",
+    "unique": "Eftersom varje målning är unik och enbart finns i ett exemplar varierar utbudet.",
+    "description": "beskrivning",
+    "measurement": "mått",
+    "width": "bredd",
+    "height": "höjd",
+    "removeFromCart": "ta bort from varukorgen"
+  }
+}
