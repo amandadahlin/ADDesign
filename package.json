@@ -6,7 +6,7 @@
     "@emotion/core": "^10.0.21",
     "connected-react-router": "^6.5.2",
     "i18next": "^17.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-i18next": "^10.13.1",
